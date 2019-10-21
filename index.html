@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sports Trivia Game</title>
+    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="assets/javascript/app.js"></script>
+
+</head>
+<!-- start Page -->
+
+<div class="container">
+    <h1>Sports Trivia Game!</h1>
+
+    <button id="start">Start Game!</button>
+</div>
+
+<!-- Game Page -->
+<Header>Sports Trivia!</Header>
+
+<div class="Timer">
+    <p>Time Remaining:</p>
+    <span id="timer"></span>
+</div>
+
+<div class="Game">
+    <form class="questions">
+        <p>Which MLB team has the most World Series wins?:</p>
+        <div class="options"div id="q1">
+            <input type="radio" name="worldSeries" value="a"> New York Yankees<br>
+            <input type="radio" name="worldSeries" value="b"> Boston Redsox<br>
+            <input type="radio" name="worldSeries" value="c"> Houston Astros<br>
+        </div>
+        <p>Which NFL Teams has the most Super Bowl wins?:</p>
+        <div class="options" div id="q2">
+            <input type="radio" name="superBowl" value="a"> Dallas Cowboys<br>
+            <input type="radio" name="superBowl" value="b"> New York Giants<br>
+            <input type="radio" name="superBowl" value="c"> New England Patriots<br>
+        </div>
+        <p>Which baseball player holds the record for the most homeruns hit in a career?:</p>
+        <div class="options" div id="q3">
+            <input type="radio" name="homeruns" value="a"> Alex Rodriguez<br>
+            <input type="radio" name="homeruns" value="b">Barry Bonds<br>
+            <input type="radio" name="homeruns" value="c"> Hank Aaron<br>
+        </div>
+        <p>Which NBA player listed below, has won the most Championships?:</p>
+        <div class="options" div id="q4">
+            <input type="radio" name="championships" value="a"> Kobe Bryant<br>
+            <input type="radio" name="championships" value="b"> Lebron James<br>
+            <input type="radio" name="championships" value="c"> Michael Jordan<br>
+        </div>
+        <input id="submit" value="Submit">
+    </form>
+</div>
+
+<div class="results">
+    <p>Correct Answers:</p>
+    <div id="correctAnswers"></div>
+    <p>Incorrect Answers:</p>
+    <div id="incorectAnswers"></div>
+
+
+</div>
+
+
+
+
+
+
+<body>
+</body>
+
+</html>

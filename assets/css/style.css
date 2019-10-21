@@ -1,0 +1,71 @@
+body{background-image: url(../images/sportsbackgound.jpg)
+
+}
+.container{text-align: center;
+    background-color:gray;
+    height: 700px;
+    font-size: 50px;
+    opacity: .95;
+    /* display: none; */
+}
+h1{ padding-top: 20%;
+    font-size: 60px;
+}
+
+/* game page */
+
+.Game{text-align: left;
+    background-color:gray;
+    height: 600px;
+    font-size: 20px;
+    width: 600px;
+    position: relative;
+    left: 30%;
+    opacity: .95;
+    line-height: 25px;
+    display: none;
+}
+   
+header{
+    font-weight: bold;
+    text-align: center;
+    background-color:blue;
+    opacity: .95;
+    width: 350px;
+    position: relative;
+    left:35%;
+    font-size: 50px;
+    display: none;
+
+}
+.Timer{text-align: center;
+    font-size: 40px;
+    background-color:whitesmoke;
+    opacity: .95;
+    width: 360px;
+    position: relative;
+    left:35%;
+    display: none;
+}
+
+
+
+
+.questions{
+    padding-top: 15%;
+}
+
+/* results page */
+
+.results{text-align: center;
+    font-size: 60px;
+    background-color:whitesmoke;
+    opacity: .95;
+    width: 550px;
+    position: relative;
+    left:30%;
+    margin-top:20%;
+    display: none;
+}
+
+
