@@ -1,71 +1,66 @@
-body{background-image: url(../images/sportsbackgound.jpg)
-
-}
-.container{text-align: center;
-    background-color:gray;
-    height: 700px;
-    font-size: 50px;
-    opacity: .95;
-    /* display: none; */
-}
-h1{ padding-top: 20%;
-    font-size: 60px;
+html,
+body {
+  height: 100%;
 }
 
-/* game page */
-
-.Game{text-align: left;
-    background-color:gray;
-    height: 600px;
-    font-size: 20px;
-    width: 600px;
-    position: relative;
-    left: 30%;
-    opacity: .95;
-    line-height: 25px;
-    display: none;
-}
-   
-header{
-    font-weight: bold;
-    text-align: center;
-    background-color:blue;
-    opacity: .95;
-    width: 350px;
-    position: relative;
-    left:35%;
-    font-size: 50px;
-    display: none;
-
-}
-.Timer{text-align: center;
-    font-size: 40px;
-    background-color:whitesmoke;
-    opacity: .95;
-    width: 360px;
-    position: relative;
-    left:35%;
-    display: none;
+body {
+  text-align: center;
+  background-image: url("../images/sportsbackgound.jpg");
 }
 
-
-
-
-.questions{
-    padding-top: 15%;
+#wrapper {
+  width: 960px;
+  height: 95%;
+  box-sizing: border-box;
+  margin: 2.5% auto;
+  background-color: #fff17a;
 }
 
-/* results page */
-
-.results{text-align: center;
-    font-size: 60px;
-    background-color:whitesmoke;
-    opacity: .95;
-    width: 550px;
-    position: relative;
-    left:30%;
-    margin-top:20%;
-    display: none;
+#sub-wrapper {
+  position: relative;
+  top: 15%;
 }
 
+button {
+  display: block;
+  width: 50%;
+  height: 20%;
+  margin: 0 auto;
+  font-size: 42px;
+  cursor: pointer;
+  background: transparent;
+  border: 0;
+}
 
+img {
+  height: 200px;
+}
+
+h1 {
+  padding-top: 2.5%;
+  font-family: Geo, sans-serif;
+  font-size: 6.5em;
+  font-weight: bold;
+  color: blue;
+}
+
+h2 {
+  margin-bottom: 25px;
+  font-size: 35px;
+}
+
+h3 {
+  margin-bottom: 10px;
+  font-size: 25px;
+}
+
+#start {
+  margin-top: 10%;
+  background: pink;
+  border: 2px solid blue;
+}
+
+button:hover {
+  background: pink;
+  border: 2px solid blue;
+}
