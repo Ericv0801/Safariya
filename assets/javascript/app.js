@@ -7,27 +7,27 @@ var questions = [{
     question: "Which MLB team has the most World Series wins?",
     answers: ['New York Yankees', "Boston Redsox", "Houston Astros", "Chicago Cubs"],
     correctAnswer: "New York Yankees",
-    image: " "
+    image: "assets/images/yankees.gif"
   }, {
     question: "Which NFL Teams has the most Super Bowl wins?",
     answers: ["Miami Dolphins", "Dallas Cowboys", "New York Giants", "New England Patriots"],
     correctAnswer: "New England Patriots",
-    image: " "
+    image: "assets/images/patriots.gif"
   }, {
     question: " Which baseball player holds the record for the most homeruns hit in a career?",
     answers: ["Barry Bonds", "Babe Ruth", "Derek Jeter", "Hank Aaron"],
     correctAnswer: "Barry Bonds",
-    image: " "
+    image: "assets/images/barryBonds.gif "
   }, {
     question: "Which NBA player listed below, has won the most Championships?",
     answers: ["Lebron James", "Kobe Bryant ", "Steph Curry", "Michael Jordan"],
     correctAnswer: "Michael Jordan",
-    image: " "
+    image: " assets/images/MikeJordan.gif"
   }, {
     question: "Which NBA team has won the most championships?",
     answers: ["Chicago Bulls", "Miami Heat", "Boston Celtics", "Los Angeles Lakers"],
     correctAnswer: "Boston Celtics",
-    image: " "
+    image: "assets/images/BostonCeltics.gif "
   }];
 
   // Variable to hold our setInterval
