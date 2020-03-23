@@ -32,7 +32,7 @@ var questions = [{
   question: "Who holds the record for the most passing yards in NFL histroy?",
   answers: ["Dan Marino", "Eli Manning", "Tom Brady", "Drew Brees"],
   correctAnswer: "Drew Brees",
-  image: "assets/images/ "
+  image: "assets/images/Brees.gif "
   }
 ];
 
