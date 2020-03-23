@@ -77,6 +77,12 @@ var questions = [
     answers: ["Emmitt Smith", "LaDainian Tomlinson", "Adrian Peterson", "Ezekiel Elliot"],
     correctAnswer: "LaDainian Tomlinson",
     image: "assets/images/LT.gif"
+  },
+  {//#10
+    question: "Which NBA player scored 100 points in a game?",
+    answers: ["Wilt Chamberlain", "Shaquille O'Neal", "Lebron James", "Kobe Bryant"],
+    correctAnswer: "LaDainian Tomlinson",
+    image: "assets/images/LT.gif"
   }
 ];
 
