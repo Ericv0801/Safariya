@@ -7,7 +7,9 @@ Sports Trivia, is a front end web application game about sports where the user h
 
 ## Instructions
 1)Click "Start".
+
 2)Answer question before timer runs out.
+
 3)Once all ten questions are answered, to play again simply click "start over".
 
 ## Technologies Used
