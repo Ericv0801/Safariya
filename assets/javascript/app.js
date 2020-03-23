@@ -55,7 +55,7 @@ var questions = [
   },
   {
     //#6
-    question: "Who holds the record for the most passing yards in NFL histroy?",
+    question: "Who holds the record for the most passing yards in NFL history?",
     answers: ["Dan Marino", "Eli Manning", "Tom Brady", "Drew Brees"],
     correctAnswer: "Drew Brees",
     image: "assets/images/Brees.gif"
@@ -73,7 +73,7 @@ var questions = [
     image: "assets/images/West.gif"
   },
   {//#9
-    question: "Which NFL runningback holds the record for the most rushing touchdowns in a season?",
+    question: "Which NFL running back holds the record for the most rushing touchdowns in a season?",
     answers: ["Emmitt Smith", "LaDainian Tomlinson", "Adrian Peterson", "Ezekiel Elliot"],
     correctAnswer: "LaDainian Tomlinson",
     image: "assets/images/LT.gif"
