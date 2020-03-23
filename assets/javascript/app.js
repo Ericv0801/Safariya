@@ -28,7 +28,13 @@ var questions = [{
     answers: ["Chicago Bulls", "Miami Heat", "Boston Celtics", "Los Angeles Lakers"],
     correctAnswer: "Boston Celtics",
     image: "assets/images/BostonCeltics.gif "
-  }];
+  }, {
+  question: "Who holds the record for the most passing yards in NFL histroy?",
+  answers: ["Dan Marino", "Eli Manning", "Tom Brady", "Drew Brees"],
+  correctAnswer: "Drew Brees",
+  image: "assets/images/ "
+  }
+];
 
   // Variable to hold our setInterval
 var timer;
