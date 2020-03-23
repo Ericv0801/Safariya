@@ -81,7 +81,7 @@ var questions = [
   {//#10
     question: "Which NBA player scored 100 points in a game?",
     answers: ["Wilt Chamberlain", "Shaquille O'Neal", "Lebron James", "Kobe Bryant"],
-    correctAnswer: "LaDainian Tomlinson",
+    correctAnswer: "Wilt Chamberlain",
     image: "assets/images/LT.gif"
   }
 ];
