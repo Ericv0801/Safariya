@@ -32,8 +32,14 @@ var questions = [{
   question: "Who holds the record for the most passing yards in NFL histroy?",
   answers: ["Dan Marino", "Eli Manning", "Tom Brady", "Drew Brees"],
   correctAnswer: "Drew Brees",
-  image: "assets/images/Brees.gif "
-  }
+  image: "assets/images/Brees.gif"
+  },
+  {
+    question: "Who's nickname is 'Mr.November' ?",
+    answers: ["Derek Jeter", "Kevin Durant", "Tom Brady", "Alex Rodriguez"],
+    correctAnswer: "Derek Jeter",
+    image: "assets/images/Brees.gif"
+    }
 ];
 
   // Variable to hold our setInterval
