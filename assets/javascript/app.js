@@ -64,7 +64,7 @@ var questions = [
     question: "Which player is on the NBA logo?",
     answers: ["Yao Ming", "Michael Jordan", "Jerry West", "Lebron James"],
     correctAnswer: "Jerry West",
-    image: "assets/images/"
+    image: "assets/images/West.gif"
   }
 ];
 
