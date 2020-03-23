@@ -76,7 +76,7 @@ var questions = [
     question: "Which NFL runningback holds the record for the most rushing touchdowns in a season?",
     answers: ["Emmitt Smith", "LaDainian Tomlinson", "Adrian Peterson", "Ezekiel Elliot"],
     correctAnswer: "LaDainian Tomlinson",
-    image: "assets/images/West.gif"
+    image: "assets/images/LT.gif"
   }
 ];
 
