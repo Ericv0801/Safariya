@@ -2,6 +2,7 @@ var card = $("#quiz-area");
 var countStartNumber = 30;
 
 var questions = [
+  //#1
   {
     question: "Which MLB team has the most World Series wins?",
     answers: [
@@ -14,6 +15,7 @@ var questions = [
     image: "assets/images/yankees.gif"
   },
   {
+    //#2
     question: "Which NFL Teams has the most Super Bowl wins?",
     answers: [
       "Miami Dolphins",
@@ -25,6 +27,7 @@ var questions = [
     image: "assets/images/patriots.gif"
   },
   {
+    //#3
     question:
       " Which baseball player holds the record for the most homeruns hit in a career?",
     answers: ["Barry Bonds", "Babe Ruth", "Derek Jeter", "Hank Aaron"],
@@ -32,12 +35,14 @@ var questions = [
     image: "assets/images/barryBonds.gif "
   },
   {
+    //#4
     question: "Which NBA player listed below, has won the most Championships?",
     answers: ["Lebron James", "Kobe Bryant ", "Steph Curry", "Michael Jordan"],
     correctAnswer: "Michael Jordan",
     image: " assets/images/MikeJordan.gif"
   },
   {
+    //#5
     question: "Which NBA team has won the most championships?",
     answers: [
       "Chicago Bulls",
@@ -49,21 +54,28 @@ var questions = [
     image: "assets/images/BostonCeltics.gif "
   },
   {
+    //#6
     question: "Who holds the record for the most passing yards in NFL histroy?",
     answers: ["Dan Marino", "Eli Manning", "Tom Brady", "Drew Brees"],
     correctAnswer: "Drew Brees",
     image: "assets/images/Brees.gif"
   },
-  {
+  {//#7
     question: "Who's nickname is 'Mr.November' ?",
     answers: ["Derek Jeter", "Kevin Durant", "Tom Brady", "Alex Rodriguez"],
     correctAnswer: "Derek Jeter",
     image: "assets/images/Jeter.gif"
   },
-  {
+  {//#8
     question: "Which player is on the NBA logo?",
     answers: ["Yao Ming", "Michael Jordan", "Jerry West", "Lebron James"],
     correctAnswer: "Jerry West",
+    image: "assets/images/West.gif"
+  },
+  {//#9
+    question: "Which NFL runningback holds the record for the most rushing touchdowns in a season?",
+    answers: ["Emmitt Smith", "LaDainian Tomlinson", "Adrian Peterson", "Ezekiel Elliot"],
+    correctAnswer: "LaDainian Tomlinson",
     image: "assets/images/West.gif"
   }
 ];
