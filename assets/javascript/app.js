@@ -38,7 +38,7 @@ var questions = [{
     question: "Who's nickname is 'Mr.November' ?",
     answers: ["Derek Jeter", "Kevin Durant", "Tom Brady", "Alex Rodriguez"],
     correctAnswer: "Derek Jeter",
-    image: "assets/images/Brees.gif"
+    image: "assets/images/Jeter.gif"
     }
 ];
 
