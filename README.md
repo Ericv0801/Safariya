@@ -24,5 +24,6 @@ Sports Trivia, is a front end web application game about sports where the user h
  ![GitHub Logo](./assets/images/question.png)
  ![GitHub Logo](./assets/images/score.png)
  
-
+## Authors
+Eric Max Valdivia
 
